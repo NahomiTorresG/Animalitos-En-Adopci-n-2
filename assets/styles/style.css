@@ -1,0 +1,53 @@
+body{background-color: rgb(253, 253, 253);
+}
+
+
+.title{
+    font-size: x-large;
+    font-family: fantasy;
+    font-style: italic;
+    color: blue;
+    text-align: center;
+    box-shadow: 2px 2px 7px 1px #CE5937;}
+
+#Frijolito{ background-color: blueviolet;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+#Luna{ background-color: blueviolet;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+#Rocky{background-color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+
+#Chia{background-color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+#Simba{background-color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+#Kiki{background-color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+#photo{border: darkgreen; margin-left: 50px; margin-right: 50px;}
+
+
+img{border-radius: 100px;border: 10px solid; border-color: darkgreen; border-style: groove;}
+
+#demotext {font-size: 60px;
+    color: #27920c;
+    background: #ffffff;
+    text-shadow: 0 1px 0px #378ab4, 1px 0 0px #5dabcd, 1px 2px 1px #378ab4, 2px 1px 1px #5dabcd, 2px 3px 2px #378ab4, 3px 2px 2px #5dabcd, 3px 4px 2px #378ab4, 4px 3px 3px #5dabcd, 4px 5px 3px #378ab4, 5px 4px 2px #5dabcd, 5px 6px 2px #378ab4, 6px 5px 2px #5dabcd, 6px 7px 1px #378ab4, 7px 6px 1px #5dabcd, 7px 8px 0px #378ab4, 8px 7px 0px #5dabcd;
+    color: #27920c;
+    background: #ffffff;
+    }
+    
+#demotext2 {font-size: 60px;
+        color: #27920c;
+        background: #ffffff;
+        text-shadow: 0 1px 0px #378ab4, 1px 0 0px #5dabcd, 1px 2px 1px #378ab4, 2px 1px 1px #5dabcd, 2px 3px 2px #378ab4, 3px 2px 2px #5dabcd, 3px 4px 2px #378ab4, 4px 3px 3px #5dabcd, 4px 5px 3px #378ab4, 5px 4px 2px #5dabcd, 5px 6px 2px #378ab4, 6px 5px 2px #5dabcd, 6px 7px 1px #378ab4, 7px 6px 1px #5dabcd, 7px 8px 0px #378ab4, 8px 7px 0px #5dabcd;
+        color: #27920c;
+        background: #ffffff;
+        }
+
+#bottom{box-shadow: 2px 2px 7px 1px #800080; background-color: rgb(210, 30, 150) ;}
